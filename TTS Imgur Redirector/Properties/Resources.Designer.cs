@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TTS_Imgur_Fix.Properties
+namespace TTS_Imgur_Redirector.Properties
 {
 
 

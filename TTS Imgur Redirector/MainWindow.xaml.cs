@@ -8,7 +8,7 @@ using System.Windows;
 using System.Windows.Documents;
 using System.Windows.Threading;
 
-namespace TTS_Imgur_Fix
+namespace TTS_Imgur_Redirector
 {
     /// <summary>
     ///     Interaction logic for MainWindow.xaml

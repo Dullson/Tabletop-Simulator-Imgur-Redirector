@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Titanium.Web.Proxy;
 using Titanium.Web.Proxy.EventArguments;
 using Titanium.Web.Proxy.Models;
-namespace TTS_Imgur_Fix
+namespace TTS_Imgur_Redirector
 {
     public class ProxyController
     {
